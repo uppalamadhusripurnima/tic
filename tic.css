@@ -1,0 +1,17 @@
+body{
+    background-image: url(tic.jpg);
+}
+.container-fluid{
+    background-color: wheat;
+    height: 100vh;
+}
+#maincontent{
+    
+    height: 50vh;
+    margin-top: 150px;
+}
+.items{
+    width: 100px;
+    height: 100px;
+    border: solid 2px black;
+}
